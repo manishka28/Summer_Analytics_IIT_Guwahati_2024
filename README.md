@@ -14,3 +14,7 @@ Develop a virtual try-on feature powered by generative AI, enabling customers to
 
 - Boost conversion rates by offering a more personalized and engaging shopping experience.
 - Decrease return rates by allowing customers to make better-informed purchasing decisions.
+### Block Diagram 
+![image](https://github.com/user-attachments/assets/c37f29e9-d3ab-4e11-adb8-2f158f54c5e4)
+![image](https://github.com/user-attachments/assets/40b6e766-75e8-4b88-92c2-3d24c2dd22c4)
+
